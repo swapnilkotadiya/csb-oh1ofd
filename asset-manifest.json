@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/css/main.2061f27a.chunk.css",
+    "main.js": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/js/main.acbff1f9.chunk.js",
+    "main.js.map": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/js/main.acbff1f9.chunk.js.map",
+    "runtime-main.js": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/js/runtime-main.7dda0bb8.js",
+    "runtime-main.js.map": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/js/runtime-main.7dda0bb8.js.map",
+    "static/css/2.4c36517b.chunk.css": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/css/2.4c36517b.chunk.css",
+    "static/js/2.890f9b67.chunk.js": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/js/2.890f9b67.chunk.js",
+    "static/js/2.890f9b67.chunk.js.map": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/js/2.890f9b67.chunk.js.map",
+    "index.html": "https://swapnilkotadiya.github.io/csb-oh1ofd/index.html",
+    "static/css/2.4c36517b.chunk.css.map": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/css/2.4c36517b.chunk.css.map",
+    "static/css/main.2061f27a.chunk.css.map": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/css/main.2061f27a.chunk.css.map",
+    "static/js/2.890f9b67.chunk.js.LICENSE.txt": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/js/2.890f9b67.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "https://swapnilkotadiya.github.io/csb-oh1ofd/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dda0bb8.js",
+    "static/css/2.4c36517b.chunk.css",
+    "static/js/2.890f9b67.chunk.js",
+    "static/css/main.2061f27a.chunk.css",
+    "static/js/main.acbff1f9.chunk.js"
+  ]
+}
